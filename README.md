@@ -39,9 +39,11 @@ content creation in the digital age, unlocking new possibilities for creativity,
 
 2. Imagine a surreal dreamscape where gravity is inverted and objects float
 weightlessly in the air, defying the laws of physics.
+
 ![image](https://github.com/29Shivani/Converter---From-Voice-To-Image/assets/74962213/d2e50384-b78e-45e9-a85d-0a56a8b4b71e)
 
 3. Create the image of a cozy cabin nestled in a snow-covered forest.
+   
 ![image](https://github.com/29Shivani/Converter---From-Voice-To-Image/assets/74962213/8a827cff-7649-4d62-a790-053694776a95)
 
 # Future Scope :
