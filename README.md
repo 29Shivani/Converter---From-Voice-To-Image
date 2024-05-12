@@ -1,4 +1,4 @@
-# voice-to-image-generation
+# Voice-to-Image Generation
 
 This project explores the integration of artificial intelligence (AI), natural language
 processing (NLP), and computer vision to generate images directly from voice input. The research addresses a critical gap in current methodologies by developing an endto-end system capable of transcribing spoken language, generating concise prompts, and creating visually compelling images in real-time. Leveraging advanced AI models
