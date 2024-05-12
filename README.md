@@ -34,6 +34,7 @@ content creation in the digital age, unlocking new possibilities for creativity,
 # SAMPLE TEST DATA AND RESULTS
 
 1. Elephants playing table tennis.
+
 ![image](https://github.com/29Shivani/Converter---From-Voice-To-Image/assets/74962213/4ccb8427-5fe6-46bf-90d1-d85616eaf540)
 
 2. Imagine a surreal dreamscape where gravity is inverted and objects float
